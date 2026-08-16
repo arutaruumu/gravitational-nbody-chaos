@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+.DS_Store
+.vscode/
+.idea/
+
+# Generated research outputs
+results/figures/*
+results/data/*
+assets/animations/*
+assets/screenshots/*
+
+# Keep directory placeholders
+!results/figures/.gitkeep
+!results/data/.gitkeep
+!assets/animations/.gitkeep
+!assets/screenshots/.gitkeep

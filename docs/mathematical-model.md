@@ -2,7 +2,7 @@
 
 ## 1. State representation
 
-Each body \(i\) has mass \(m_i\), position \(\mathbf r_i\), and velocity \(\mathbf v_i\).
+Each body $\(i\)$ has mass $\(m_i\)$, position $\(\mathbf r_i\)$, and velocity $\(\mathbf v_i\)$.
 
 The complete state is
 

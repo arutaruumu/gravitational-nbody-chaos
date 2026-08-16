@@ -16,8 +16,9 @@ The default implementation is two-dimensional.
 
 ## 2. Newtonian gravity
 
-For \(i\ne j\),
+For $\(i\ne j\)$,
 
+$$
 \[
 \mathbf F_{ij}
 =
@@ -25,6 +26,7 @@ Gm_im_j
 \frac{\mathbf r_j-\mathbf r_i}
 {|\mathbf r_j-\mathbf r_i|^3}.
 \]
+$$
 
 The corresponding acceleration is
 

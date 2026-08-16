@@ -6,9 +6,11 @@ Each body \(i\) has mass \(m_i\), position \(\mathbf r_i\), and velocity \(\math
 
 The complete state is
 
+$$
 \[
 X(t)=\{\mathbf r_i(t),\mathbf v_i(t)\}_{i=1}^{N}.
 \]
+$$
 
 The default implementation is two-dimensional.
 

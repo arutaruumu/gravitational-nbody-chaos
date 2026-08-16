@@ -61,11 +61,9 @@ $$
 Potential energy:
 
 $$
-\[
 U=-G\sum_{i<j}
 \frac{m_im_j}
 {\sqrt{r_{ij}^2+\epsilon^2}}.
-\]
 $$
 
 Total energy:
